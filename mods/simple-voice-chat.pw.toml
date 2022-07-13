@@ -1,0 +1,13 @@
+name = "Simple Voice Chat"
+filename = "voicechat-forge-1.18.2-2.2.51.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7762ca19e1c883b8f40dedcfaee5010e6e6c657"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3872500
+project-id = 416089

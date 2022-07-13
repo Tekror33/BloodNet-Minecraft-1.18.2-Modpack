@@ -1,0 +1,13 @@
+name = "Nature Expansion"
+filename = "NatureExpansion1.5 1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97f8d64a34d10e071ad742009a2b41d89c9cc708"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3706059
+project-id = 481562

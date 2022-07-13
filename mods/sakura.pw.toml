@@ -1,0 +1,13 @@
+name = "Sakura"
+filename = "sakura-1.0.2-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "411b5dacb857beb4b0ace63e0a0ab6c04c2e1f69"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3848630
+project-id = 333079

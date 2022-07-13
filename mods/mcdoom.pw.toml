@@ -1,0 +1,13 @@
+name = "MCDoom"
+filename = "MCDoom-1.18.2-4.2.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "da551a09b05e841ff02b374c4151443878211209"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3866658
+project-id = 368765
